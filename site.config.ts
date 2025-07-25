@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Chaodi Tang Blog World',
-  domain: 'chaodit.com',
-  author: 'Chaodi Tang',
+  name: '帕尔帕廷的网站',
+  domain: 'palpatine666666.notion.site',
+  author: '帕尔帕廷',
 
   // open graph metadata (optional)
   description: 'My Blogs.',
 
   // social usernames (optional)
-  twitter: 'chaodit',
-  github: 'chaodit',
+  twitter: '',
+  github: 'palpatine666666',
   linkedin: 'Chao Di Tang',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
